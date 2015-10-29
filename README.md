@@ -10,6 +10,8 @@ git commit - creates a snapshot of where your code currently is.  Makes a checkp
 
 git push - takes the last commit on your local and sends it to the remote
 
-git checkout - used to jump to or create other branches. 
+git checkout - used to jump to or create other branches.
+
+This is what  i forgot!!
 
 
